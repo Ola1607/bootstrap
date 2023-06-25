@@ -1,0 +1,33 @@
+
+
+    <h1 class="text-success fw-bold text-capitalize bg-primary my-3 py-3 w-25 m-auto rounded rounded-circle display-6 rounded rounder-md p-5 ">Hello world</h1>
+    <h1 class="text-decoration-none bg-danger rounder-md">Hello world</h1> <br>
+    
+    <ul class="d-flex nav bg-warning flex-row p-2 justify-content-around align-items-start">
+        <li>Home</li>
+        <li>Contact</li>
+        <li>Services</li>
+    </ul>
+
+
+    <div class="container-fluid bg-dark">
+        <div class="row">
+            <div class="col-2 col-md-4 bg-danger">1</div>
+            <div class="col-4 col-md-4 bg-warning">2</div>
+            <div class="col-6 col-md-4 bg-primary">3</div>
+        
+        </div>
+        
+    </div>
+
+
+
+    div class="container-fluid bg-dark">
+        <div class="row">
+            <div class="col-12 col-md-3 col-sm-4 col-xs-12  g-success">1</div>
+            <div class="col-12 col-md-3 col-sm-4 col-xs-12  bg-danger">2</div>
+            <div class="col-12 col-md-3 col-sm-2 col-xs-12  bg-dark">3</div>
+            <div class="col-12 col-md-3 col-sm-2 col-xs-12  bg-primary">4</div>
+        
+        </div>
+
